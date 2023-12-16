@@ -109,10 +109,6 @@ if __name__ == "__main__":
     name1 = sys.argv[2]
     name2 = sys.argv[3]
 
-    # file_name = 'Gideon-Patrice-GEI-Transcript'
-    # name1 = "Patrice"
-    # name2 = "Gideon"
-
     pdf_file_name = 'pdfs/' + file_name + '.pdf'
     csv_file_name = 'text_original_csv/'+ file_name + '.csv'
 
